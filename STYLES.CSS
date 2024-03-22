@@ -5,3 +5,30 @@
 body{
     background-color: gray;
 }
+
+
+nav {
+    background-color: #333; /* Color de fondo de la barra de navegación */
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white; /* Color del texto de los enlaces */
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #555; /* Color de fondo cuando se pasa el ratón sobre un enlace */
+}
