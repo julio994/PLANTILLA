@@ -1,3 +1,7 @@
 .titulo {
-    color: blue; /* Cambia "blue" al color que desees */
+    color: rgb(0, 255, 221); /* Cambia "blue" al color que desees */
+}
+
+body{
+    background-color: gray;
 }
